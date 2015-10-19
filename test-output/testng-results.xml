@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Flipkart android test suite" duration-ms="13747" started-at="2015-10-19T11:26:37Z" finished-at="2015-10-19T11:26:51Z">
+    <groups>
+    </groups>
+    <test name="Launch Flipkart test" duration-ms="13747" started-at="2015-10-19T11:26:37Z" finished-at="2015-10-19T11:26:51Z">
+      <class name="com.appium.training.LaunchFlipkart">
+        <test-method status="PASS" signature="Runtheflipkartapkfile()[pri:0, instance:com.appium.training.LaunchFlipkart@c818063]" name="Runtheflipkartapkfile" duration-ms="7933" started-at="2015-10-19T16:56:37Z" finished-at="2015-10-19T16:56:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Runtheflipkartapkfile -->
+        <test-method status="PASS" signature="Aftertestactivity()[pri:0, instance:com.appium.training.LaunchFlipkart@c818063]" name="Aftertestactivity" is-config="true" duration-ms="5793" started-at="2015-10-19T16:56:45Z" finished-at="2015-10-19T16:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftertestactivity -->
+      </class> <!-- com.appium.training.LaunchFlipkart -->
+    </test> <!-- Launch Flipkart test -->
+  </suite> <!-- Flipkart android test suite -->
+</testng-results>

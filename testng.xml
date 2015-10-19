@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Flipkart android test suite" verbose="1">
+    
+    	<!-- listeners>
+			<listener class-name="com.Framework.listener.TestsListenerAdapter" />
+		</listeners-->
+	<test name="Launch Flipkart test">
+		<classes>
+			<class name="com.appium.training.LaunchFlipkart" />
+		</classes>
+	</test>
+
+</suite>
